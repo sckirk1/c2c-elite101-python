@@ -1,4 +1,5 @@
 # C2C Elite 101 Python Chatbot Starter
+## Samuel Kirk Edition
 
 This project is a starter project that includes a dev [container (GitHub Codespace)](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers) that is set up for a python
 development environment.
@@ -14,3 +15,4 @@ in the browser or in a local installation of vs code) for more info [go here](ht
 ![Screenshot](codespace_usage.png)
 3. To run the starter program, in a terminal run python main.py, or open the main.py file and click the play button at the top right of the editor
 ![Screenshot](codespace_run_file.png)
+
